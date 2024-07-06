@@ -1,0 +1,76 @@
+div {
+    background-color: hsl(0, 1%, 62%);
+    border:4px solid black;
+   max-width:  50%;
+   margin-top: 10px;
+   margin-left: 10px;
+   margin-bottom: 10px;
+   margin-right: 10px;
+   padding-left: 12px;
+  padding-right: 12px;
+  padding-bottom: 10px;
+   
+
+
+
+}
+h1 {
+color:black;
+border: 4px solid black;
+padding: 10px;
+
+
+}
+img { 
+    max-width: 100%;
+margin-top: 5px;
+padding-right: 10px;
+
+
+}
+
+a{
+color: red;
+}
+h2{
+color: green;
+}
+
+h3{
+color: red;
+width: 220px;
+padding-right: 10px;
+margin-right: 10px;
+
+}
+hr{
+border-width: 3px;
+border-color:black;
+border-style: solid;
+
+}
+
+a{
+    font-size: x-large;
+}
+img {
+
+width: 420px;
+
+}
+body ,html  {
+margin: 0;
+padding: 0;
+max-width: 800px;
+min-width: 300px;
+
+
+
+
+}
+p {
+   font-size: xx-large;
+   color:blue;
+   margin-left: 20px;
+  font-style: unset;
+}
